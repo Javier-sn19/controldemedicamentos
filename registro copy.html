@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">INGRESA TUS DATOS DE MANERA RESPONSABLE</h1>
+        <form action="procesar_registro.php" method="POST">
+            <div class="mb-3">
+                <label for="username" class="form-label">Nombre de Usuario:</label>
+                <input type="text" class="form-control" id="username" name="username" placeholder="Crea un usuario" required>
+            </div>
+                
+            <div class="mb-3">
+                <label for="password" class="form-label">Contraseña:</label>
+                <input type="password" class="form-control" id="password" name="password" placeholder="Crea una contraseña" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre Completo:</label>
+                <input type="text" class="form-control" id="nombre" name="nombre" placeholder="¿Como te llamas?" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="edad" class="form-label">Edad:</label>
+                <input type="number" class="form-control" id="edad" name="edad" placeholder="¿Que edad tienes?" required>
+            </div>
+
+            <div class="mb-3">
+                <label>Género:</label>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" id="genero-masculino" name="genero" value="Masculino" required>
+                    <label class="form-check-label" for="genero-masculino">Masculino</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" id="genero-femenino" name="genero" value="Femenino">
+                    <label class="form-check-label" for="genero-femenino">Femenino</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" id="genero-otro" name="genero" value="Otro">
+                    <label class="form-check-label" for="genero-otro">Otro</label>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="peso" class="form-label">Peso (kg):</label>
+                <input type="number" class="form-control" id="peso" name="peso" placeholder="¿Cual es tu peso actual?" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="altura" class="form-label">Altura (m):</label>
+                <input type="number" class="form-control" id="altura" name="altura" placeholder="¿Cual es tu altura actual?" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="alergias" class="form-label">Alergias:</label>
+                <textarea class="form-control" id="alergias" name="alergias" placeholder="¿Tienes alergias  " rows="4"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="medicamentos-actuales" class="form-label">Medicamentos Actuales:</label>
+                <textarea class="form-control" id="medicamentos-actuales" name="medicamentos-actuales" rows="4"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="condiciones-medicas" class="form-label">Condiciones Médicas:</label>
+                <textarea class="form-control" id="condiciones-medicas" name="condiciones-medicas" rows="4"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Número de Teléfono:</label>
+                <input type="tel" class="form-control" id="telefono" name="telefono">
+            </div>
+
+            <div class="mb-3">
+                <label for="direccion" class="form-label">Dirección:</label>
+                <input type="text" class="form-control" id="direccion" name="direccion">
+            </div>
+
+            <div class="mb-3">
+                <label for="ciudad" class="form-label">Ciudad:</label>
+                <input type="text" class="form-control" id="ciudad" name="ciudad">
+            </div>
+
+            <div class="mb-3">
+                <label for="codigo-postal" class="form-label">Código Postal:</label>
+                <input type="text" class="form-control" id="codigo-postal" name="codigo-postal">
+            </div>
+
+            <div class="mb-3">
+                <label for="pais" class="form-label">País:</label>
+                <input type="text" class="form-control" id="pais" name="pais">
+            </div>
+
+            <div class="mb-3">
+                <a href="index.html" class="btn btn-primary">Registrarse</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

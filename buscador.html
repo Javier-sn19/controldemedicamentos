@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control de Medicamentos</title>
+    <!-- Enlaces a los archivos CSS y JavaScript de Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Control de Medicamentos</h1>
+
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Formulario de búsqueda -->
+                <form class="mb-4">
+                    <div class="form-group">
+                        <label for="searchInput">Buscar por nombre o uso:</label>
+                        <input type="text" id="searchInput" class="form-control">
+                    </div>
+                    <!-- Botones de búsqueda-->
+                    <button type="button" class="btn btn-primary" onclick="buscarMedicamento()">Buscar</button>
+                </form>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Agregar Medicamento:</h2>
+                <!-- Formulario para agregar medicamento -->
+                <form id="medication-form">
+                    <div class="form-group">
+                        <label for="medication-name">Nombre del Medicamento:</label>
+                        <div class="input-group">
+                            <span id="resultados-busqueda" class="input-group-addon"></span>
+                            <input type="text" id="medication-name" class="form-control" required>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="form-group">
+                        <label for="dose">Dosis:</label>
+                        <input type="number" id="dose" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="frequency">Frecuencia (horas):</label>
+                        <input type="number" id="frequency" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="duration">Duración del Tratamiento (días):</label>
+                        <input type="number" id="duration" class="form-control" required>
+                    </div>
+                    <!-- Botón para guardar medicamento -->
+                    <button type="button" class="btn btn-primary" onclick="guardarMedicamento()">Guardar</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <!-- Lista de medicamentos cargados -->
+                <h2>Medicamentos Cargados:</h2>
+                <ul id="loaded-medications" class="list-group"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="buscador.js"></script>
+</body>
+</html>

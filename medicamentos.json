@@ -1,0 +1,763 @@
+[
+
+{
+
+"nombre": "Paracetamol", 
+
+"uso": "Analgésico y antipirético"
+
+},
+
+{
+
+"nombre": "Ibuprofeno",
+
+"uso": "Antiinflamatorio no esteroideo"  
+
+},
+
+{
+
+"nombre": "Amoxicilina",
+
+"uso": "Antibiótico"
+
+},
+
+{
+
+"nombre": "Lorazepam",  
+
+"uso": "Ansiolítico"
+
+},
+
+{
+
+"nombre": "Omeprazol",
+
+"uso": "Inhibidor de la bomba de protones"
+
+},
+
+{
+
+"nombre": "Atorvastatina", 
+
+"uso": "Estatina (reductor de colesterol)"
+
+}, 
+
+{
+
+"nombre": "Metformina",
+
+"uso": "Antidiabético oral"
+
+},
+
+{
+
+"nombre": "Lisinopril",
+
+"uso": "Inhibidor de la enzima convertidora de angiotensina (IECA)"
+
+},
+
+{
+
+"nombre": "Salbutamol",
+
+"uso": "Broncodilatador (para el asma)"
+
+},
+
+{
+
+"nombre": "Losartan",
+
+"uso": "Bloqueador del receptor de angiotensina II (ARA II)"
+
+},
+
+{
+
+"nombre": "Enalapril",
+
+"uso": "Inhibidor de la ECA (enzima convertidora de angiotensina)"
+
+},
+
+{
+
+"nombre": "Olanzapina",
+
+"uso": "Antipsicótico atípico" 
+
+},
+
+{
+
+"nombre": "Fluoxetina",
+
+"uso": "Antidepresivo inhibidor selectivo de la recaptación de serotonina (ISRS)"
+
+},
+
+{
+
+"nombre": "Alprazolam",
+
+"uso": "Ansiolítico benzodiacepínico"
+
+},
+
+{
+
+"nombre": "Metoprolol",
+
+"uso": "Beta bloqueante"
+
+},
+
+{
+
+"nombre": "Amlodipino", 
+
+"uso": "Bloqueante de los canales del calcio"
+
+},
+
+{
+
+"nombre": "Sertralina",
+
+"uso": "Antidepresivo ISRS"
+
+},
+
+{
+
+"nombre": "Gabapentina",
+
+"uso": "Antiepiléptico" 
+
+},
+
+{
+
+"nombre": "Quetiapina",
+
+"uso": "Antipsicótico atípico"
+
+},
+
+{
+
+"nombre": "Amitriptilina",
+
+"uso": "Antidepresivo tricíclico" 
+
+},
+
+{
+
+"nombre": "Citalopram",
+
+"uso": "Antidepresivo ISRS"
+
+},
+
+{
+
+"nombre": "Prednisona", 
+
+"uso": "Corticosteroide" 
+
+},
+
+{
+
+"nombre": "Furosemida",
+
+"uso": "Diurético de asa"
+
+},
+
+{
+
+"nombre": "Esomeprazol",
+
+"uso": "Inhibidor de la bomba de protones"
+
+},
+
+{
+
+"nombre": "Pantoprazol",
+
+"uso": "Inhibidor de la bomba de protones"
+
+},
+
+{
+
+"nombre": "Carvedilol",
+
+"uso": "Beta bloqueante no selectivo con acción alfa bloqueante"
+
+},
+
+{
+
+"nombre": "Venlafaxina",
+
+"uso": "Antidepresivo inhibidor de la recaptación de serotonina y noradrenalina (IRSN)"
+
+},
+
+{
+
+"nombre": "Montelukast",
+
+"uso": "Antagonista de los leucotrienos (para el asma)"
+
+},
+
+{
+
+"nombre": "Bisoprolol",
+
+"uso": "Beta bloqueante selectivo" 
+
+},
+
+{
+
+"nombre": "Escitalopram",
+
+"uso": "Antidepresivo ISRS"  
+
+},
+
+{
+
+"nombre": "Topiramato",
+
+"uso": "Antiepiléptico"
+
+},
+
+{
+
+"nombre": "Levotiroxina",
+
+"uso": "Hormona tiroidea sintética"
+
+},
+
+{
+
+"nombre": "Mirtazapina",
+
+"uso": "Antidepresivo tetracíclico"
+
+},
+
+{
+
+"nombre": "Alendronato",
+
+"uso": "Bifosfonato (para osteoporosis)"
+
+},
+
+{ 
+
+"nombre": "Duloxetina",
+
+"uso": "Antidepresivo IRSN"
+
+},
+
+{
+
+"nombre": "Ranitidina",
+
+"uso": "Antagonista del receptor H2 de la histamina"  
+
+},
+
+{
+
+"nombre": "Tamsulosina", 
+
+"uso": "Alfa bloqueante (para hiperplasia prostática benigna)"
+
+},
+
+{
+
+"nombre": "Moxifloxacino",
+
+"uso": "Antibiótico fluoroquinolona" 
+
+},  
+
+{
+
+"nombre": "Insulina glargina",
+
+"uso": "Insulina basal" 
+
+},
+
+{
+
+"nombre": "Ezetimiba",
+
+"uso": "Inhibidor de la absorción del colesterol"
+
+},
+
+{
+
+"nombre": "Sitagliptina", 
+
+"uso": "Inhibidor de la DPP-4 (antidiabético oral)"
+
+},
+
+{ 
+
+"nombre": "Levofloxacino",
+
+"uso": "Antibiótico fluoroquinolona"
+
+},
+
+{
+
+"nombre": "Oseltamivir", 
+
+"uso": "Antiviral (para la gripe)"
+
+},
+
+{
+
+"nombre": "Ferrous sulfate",
+
+"uso": "Suplemento de hierro"
+
+},
+
+{
+
+"nombre": "Metoclopramide",
+
+"uso": "Antiemético"
+
+},
+
+{
+
+"nombre": "Acyclovir",
+
+"uso": "Antiviral"
+
+},
+
+{
+
+"nombre": "Cephalexin", 
+
+"uso": "Antibiótico cefalosporina"
+
+},
+
+{
+
+"nombre": "Azithromycin",
+
+"uso": "Antibiótico macrólido"  
+
+},
+
+{
+
+"nombre": "Ciprofloxacin",
+
+"uso": "Antibiótico fluoroquinolona"
+
+},
+
+{
+
+"nombre": "Amitriptyline",
+
+"uso": "Antidepresivo tricíclico"
+
+},
+
+{
+
+"nombre": "Prednisone",
+
+"uso": "Corticosteroide" 
+
+},
+
+{
+
+"nombre": "Albuterol",
+
+"uso": "Broncodilatador (beta-2 agonista)"
+
+},
+
+{
+
+"nombre": "Metformin",
+
+"uso": "Antidiabético oral biguanida" 
+
+},
+
+{
+
+"nombre": "Hydrochlorothiazide", 
+
+"uso": "Diurético tiazida"
+
+},
+
+{
+
+"nombre": "Propranolol",
+
+"uso": "Beta bloqueante"
+
+},
+
+{
+
+"nombre": "Simvastatin",
+
+"uso": "Estatina" 
+
+},
+
+{
+
+"nombre": "Warfarin",
+
+"uso": "Anticoagulante (antagonista de la vitamina K)"
+
+},
+
+{
+
+"nombre": "Trazodone",
+
+"uso": "Antidepresivo"
+
+},
+
+{
+
+"nombre": "Diclofenac",
+
+"uso": "Antiinflamatorio no esteroideo"
+
+}, 
+
+{
+
+"nombre": "Naproxen",
+
+"uso": "Antiinflamatorio no esteroideo"  
+
+},
+
+{
+
+"nombre": "Pantoprazole", 
+
+"uso": "Inhibidor de la bomba de protones"
+
+},
+
+{
+
+"nombre": "Doxycycline",
+
+"uso": "Antibiótico tetraciclina"
+
+},
+
+{
+
+"nombre": "Losartan",
+
+"uso": "Antagonista del receptor de la angiotensina II"
+
+},
+
+{
+
+"nombre": "Clopidogrel",
+
+"uso": "Antiagregante plaquetario"
+
+},
+
+{
+
+"nombre": "Fexofenadine",
+
+"uso": "Antihistamínico"
+
+},
+
+{
+
+"nombre": "Hydroxyzine",
+
+"uso": "Antihistamínico" 
+
+},
+
+{
+
+"nombre": "Montelukast",
+
+"uso": "Antagonista de los leucotrienos"
+
+},
+
+{   
+
+"nombre": "Spironolactone",
+
+"uso": "Diurético ahorrador de potasio"
+
+},
+
+{
+
+"nombre": "Meloxicam",
+
+"uso": "Antiinflamatorio no esteroideo" 
+
+},
+
+{
+
+"nombre": "Glyburide",
+
+"uso": "Antidiabético oral sulfonilurea"
+
+},
+
+{
+
+"nombre": "Nadolol",
+
+"uso": "Beta bloqueante"
+
+},
+
+{
+
+"nombre": "Diazepam", 
+
+"uso": "Ansiolítico benzodiacepínico" 
+
+},
+
+{
+
+"nombre": "Meclizine",
+
+"uso": "Antihistamínico/antivertiginoso"
+
+},
+
+{
+
+"nombre": "Famotidine",
+
+"uso": "Antagonista del receptor H2 de histamina"
+
+},
+
+{
+
+"nombre": "Sotalol",
+
+"uso": "Beta bloqueante antiarrítmico" 
+
+},
+
+{
+
+"nombre": "Glimepiride", 
+
+"uso": "Antidiabético oral sulfonilurea"
+
+},
+
+{
+
+"nombre": "Fosinopril",
+
+"uso": "Inhibidor de la ECA"  
+
+},
+
+{
+
+"nombre": "Hydralazine",
+
+"uso": "Vasodilatador antihipertensivo"
+
+},
+
+{
+
+"nombre": "Clindamycin",
+
+"uso": "Antibiótico lincosamida"
+
+},
+
+{
+
+"nombre": "Cefuroxime",
+
+"uso": "Antibiótico cefalosporina" 
+
+},
+
+{
+
+"nombre": "Cyclobenzaprine", 
+
+"uso": "Relajante muscular"
+
+},
+
+{
+
+"nombre": "Buspirone",
+
+"uso": "Ansiolítico no benzodiacepínico" 
+
+},
+
+{
+
+"nombre": "Clonidine",
+
+"uso": "Antihipertensivo de acción central"
+
+},
+
+{
+
+"nombre": "Nifedipine",
+
+"uso": "Bloqueante de los canales de calcio"
+
+},
+
+{
+
+"nombre": "Verapamil",
+
+"uso": "Bloqueante de los canales de calcio"
+
+},
+
+{
+
+"nombre": "Ondansetron",
+
+"uso": "Antiemético" 
+
+},
+
+{
+
+"nombre": "Colecalciferol", 
+
+"uso": "Suplemento de vitamina D"
+
+},
+
+{
+
+"nombre": "Toremifene",
+
+"uso": "Modulador selectivo de los receptores estrogénicos (cáncer de mama)"
+
+},
+
+{
+
+"nombre": "Clarithromycin",
+
+"uso": "Antibiótico macrólido"
+
+},
+
+{
+
+"nombre": "Hydrochlorothiazide",
+
+"uso": "Diurético tiazídico"  
+
+},
+
+{
+
+"nombre": "Atenolol", 
+
+"uso": "Beta bloqueante"
+
+},
+
+{
+
+"nombre": "Methotrexate",
+
+"uso": "Inmunosupresor/antimetabolito (artritis reumatoide)"
+
+},
+
+{
+
+"nombre": "Captopril",
+
+"uso": "Inhibidor de la ECA"
+
+},
+
+{
+
+"nombre": "Glipizide",
+
+"uso": "Antidiabético oral sulfonilurea"
+
+},
+
+{
+
+"nombre": "Acyclovir",
+
+"uso": "Antiviral"
+
+}
+
+]
